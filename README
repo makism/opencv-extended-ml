@@ -1,0 +1,5 @@
+This is fork of OpenCV2.1 (or something like this).
+The main purpose of this fork is to enhance the ML namespace with more algorithms like, SOM, NG, GNG, ITM and possible RAVQ.
+
+Hey, i just love these soft clustering algorithms and the new C++ api of OpenCV :-)
+
